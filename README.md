@@ -39,5 +39,16 @@ _________________■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 <p align="center">
 <img width="1000" height="130" alt="Untitled Project" src="https://github.com/user-attachments/assets/90d1438f-6b77-40b4-a636-2b59bd9c6fb2" />
 
+## $\color{cyan}{\textsf{Basic facts about me}}$
 
+Here's the table of my fav cookies if interested.
+It's sorted out by most fav at the top to less at the bottom.
 
+| stages | Fav cookies |
+| --- | ---|
+| 1st | Shamimi, Kumiho cookie |
+| 2nd | Timekeeper cookie, Moonlight cookie |
+| 3rd | Nutmeg tiger cookie |
+| 4th | Tiger lily cookie, Lotus dragon cookie |
+
+# $\Large\color{red}{\textsf{WIP RAAAH!!}}$
