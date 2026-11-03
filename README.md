@@ -32,3 +32,7 @@ _________________■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 <p align="center">
 ♥︎ Shamimi ♥︎
+
+<p align="center">
+<img width="220" height="179" alt="devsisters-cookie-run" src="https://github.com/user-attachments/assets/55e85419-a610-4b14-91fc-b926d568f9c8" />
+
