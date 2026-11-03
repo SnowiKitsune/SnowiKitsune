@@ -34,5 +34,6 @@ _________________■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ♥︎ Shamimi ♥︎
 
 <p align="center">
-<img width="220" height="179" alt="devsisters-cookie-run" src="https://github.com/user-attachments/assets/55e85419-a610-4b14-91fc-b926d568f9c8" />
+<img width="200" height="192" alt="shadow-milk-cookie-crk" src="https://github.com/user-attachments/assets/53447b7d-a289-4755-b334-31f1b4fa9444" />
+
 
